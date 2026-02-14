@@ -1,0 +1,14 @@
+html,
+body {
+  background-color: #dce9df; /* Change to any color you want */
+}
+
+#nav{
+  height: 100px;
+}
+
+h2 {
+  color: red;
+  font-size: 20;
+}
+
